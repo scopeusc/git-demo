@@ -1,4 +1,3 @@
-# git-demo
-Git demo
+# Git demo
 
 Change this sentence.
