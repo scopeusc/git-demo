@@ -1,6 +1,6 @@
 # Git demo
 
-Change this sentence.
+Scope is the best
 
 
 - mood rn 🐸 
