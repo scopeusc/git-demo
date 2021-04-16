@@ -5,3 +5,5 @@ Scope is the best
 
 - mood rn 🐸 
 ![](https://thumbs.gfycat.com/UnkemptVibrantIncatern-max-1mb.gif)
+
+Git is so cool!
