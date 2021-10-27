@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-hello, world!
-=======
-aaaaaaaaaa
-aaaaaaaaa
->>>>>>> 79d13547b51b2d2943f52713a76ec09e553d60d2
