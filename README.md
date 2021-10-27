@@ -1,6 +1,9 @@
 # Git demo
 
-* complete this little quirky git challenge to learn git by example! 🤟🧠
+> Git is so cool!  
+> Complete this little quirky git challenge to learn git by example! 🤟🧠
+
+   
 
 ### steps to complete
 
@@ -13,9 +16,6 @@
 7. create a pull request with your new branch (on the github repository website)
 
 #### CONGRATS you're ready for your first internship. 😛
-   
 
-- mood rn 🐸   
+#### mood rn 🐸   
 ![](https://thumbs.gfycat.com/UnkemptVibrantIncatern-max-1mb.gif)
-
-Git is so cool!
