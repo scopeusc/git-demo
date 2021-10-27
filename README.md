@@ -15,7 +15,7 @@
 #### CONGRATS you're ready for your first internship. 😛
    
 
-- mood rn 🐸 
+- mood rn 🐸   
 ![](https://thumbs.gfycat.com/UnkemptVibrantIncatern-max-1mb.gif)
 
 Git is so cool!
