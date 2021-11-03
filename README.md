@@ -19,3 +19,5 @@
 
 #### mood rn 🐸   
 ![](https://thumbs.gfycat.com/UnkemptVibrantIncatern-max-1mb.gif)
+<br>
+![meta_jerma](https://user-images.githubusercontent.com/9396028/140000679-34f7cc78-372a-472f-b2c6-a17055220ab2.jpg)
